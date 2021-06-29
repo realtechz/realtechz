@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Karthik Reddy a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+    Hello, I am Karthik Reddy a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>Birla Institute of Technology & Science, Pilani - Dubai Campus</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
