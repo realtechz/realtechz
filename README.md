@@ -33,7 +33,6 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
@@ -60,9 +59,8 @@
   <p align="center">
 
 
-[![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=realtechz&show_icons=true&theme=cobalt)]((https://github.com/realtechz/github-readme-stats))
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtechz)](https://github.com/realtechz/github-readme-stats)
+[<p align="center"><img  src = "https://github-readme-stats.vercel.app/api?username=realtechz&show_icons=true&theme=cobalt" alt="ovi" /></p>](https://github.com/realtechz/github-readme-stats)
+[<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtechz" alt="ovi" /></p>](https://github.com/realtechz/github-readme-stats)
 
 
  
