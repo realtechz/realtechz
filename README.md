@@ -58,7 +58,13 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
   <p align="center">
-  
+
+
+[![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=realtechz&show_icons=true&theme=cobalt)]((https://github.com/realtechz/github-readme-stats))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtechz)](https://github.com/realtechz/github-readme-stats)
+
+
  
 <!--  
  
