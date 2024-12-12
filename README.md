@@ -7,7 +7,7 @@
 <p align="left"> 
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
